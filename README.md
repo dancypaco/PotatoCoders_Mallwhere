@@ -4,3 +4,6 @@ A mobile application that caters shoppers (and mall owners) in adapting to the n
 Installion:
 1. Please download the apk file.
 2. Install the way it is 
+
+Flutter Code: 
+1. It is on the zip file
